@@ -1,7 +1,14 @@
 {
   "name": "simple-val",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "repository": {
+    "url": "https://github.com/iheidari/simple-val.git"
+  },
+  "author": {
+    "name": "Iman Heidari",
+    "url": "https://github.com/iheidari/simple-val"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
